@@ -21,3 +21,5 @@ git clone https://github.com/YogaRmdn/Port-scanner.git
 cd Port-scanner
 python scan.py
 ```
+
+![Port-scanner](ss.png)
